@@ -31,5 +31,6 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, Calculadora.class);
         i.putExtra("user",usuario);
         startActivity(i);
+        //
     }
 }
