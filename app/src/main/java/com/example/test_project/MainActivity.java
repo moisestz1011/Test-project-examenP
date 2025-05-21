@@ -24,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
     public void sumar(){
 
     }
+
+    public void Restar(){
+
+    }
 }
